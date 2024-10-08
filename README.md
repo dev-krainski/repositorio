@@ -1,2 +1,2 @@
 # repositorio
-repostirório teste - estudos
+repostirório teste - estudos.
